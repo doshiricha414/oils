@@ -1,0 +1,1448 @@
+{
+  "OILDATA": [
+    {
+      "NAME": "Almond",
+      "URL": "Almond.html",
+      "IMG": "almond"
+    },
+    {
+      "NAME": "Anise Seed",
+      "URL": "Anise Seed.html",
+      "IMG": "anise_seed"
+    },
+    {
+      "NAME": "Apricot",
+      "URL": "Apricot.html",
+      "IMG": "apricot"
+    },
+    {
+      "NAME": "Avocado",
+      "URL": "Avocado.html",
+      "IMG": "avocado"
+    },
+    {
+      "NAME": "basil",
+      "URL": "basil.html",
+      "IMG": "basil"
+    },
+    {
+      "NAME": "Bergamot",
+      "URL": "bergamot.html",
+      "IMG": "bergamot"
+    },
+    {
+      "NAME": "black Pepper",
+      "URL": "blackPepper.html",
+      "IMG": "black_pepper"
+    },
+    {
+      "NAME": "Cade",
+      "URL": "Cade.html",
+      "IMG": "cade"
+    },
+    {
+      "NAME": "Cajuput",
+      "URL": "Cajuput.html",
+      "IMG": "cajuput"
+    },
+    {
+      "NAME": "Calamus",
+      "URL": "Calamus.html",
+      "IMG": "calamus"
+    },
+    {
+      "NAME": "Calendula",
+      "URL": "Calendula.html",
+      "IMG": "calendula"
+    },
+    {
+      "NAME": "Camphor",
+      "URL": "Camphor.html",
+      "IMG": "camphor"
+    },
+    {
+      "NAME": "cardamom",
+      "URL": "cardamom.html",
+      "IMG": "cardamom"
+    },
+    {
+      "NAME": "Carrot Seed",
+      "URL": "Carrot Seed.html",
+      "IMG": "carrot_seed"
+    },
+    {
+      "NAME": "Cedar",
+      "URL": "Cedar.html",
+      "IMG": "cedar"
+    },
+    {
+      "NAME": "Chamomile",
+      "URL": "romanChamomile.html",
+      "IMG": "roman_chamomile"
+    },
+    {
+      "NAME": "Chandan",
+      "URL": "Chandan.html",
+      "IMG": "chandan"
+    },
+    {
+      "NAME": "Cinnamon",
+      "URL": "Cinnamon.html",
+      "IMG": "cinnamon"
+    },
+    {
+      "NAME": "Citronella",
+      "URL": "Citronella.html",
+      "IMG": "citronella"
+    },
+    {
+      "NAME": "Clary Sage",
+      "URL": "clarySage.html",
+      "IMG": "clarysage"
+    },
+    {
+      "NAME": "Clove Bud",
+      "URL": "Clove Bud.html",
+      "IMG": "clove_bud"
+    },
+    {
+      "NAME": "clove leaf",
+      "URL": "clove.html",
+      "IMG": "clove"
+    },
+    {
+      "NAME": "Cuminseed",
+      "URL": "Cuminseed.html",
+      "IMG": "cuminseed"
+    },
+    {
+      "NAME": "cypress",
+      "URL": "cypress.html",
+      "IMG": "cypress"
+    },
+    {
+      "NAME": "eucalyptus Radiata",
+      "URL": "eucalyptusRadiata.html",
+      "IMG": "eucalyptus_radiata"
+    },
+    {
+      "NAME": "fennel seed",
+      "URL": "fennel.html",
+      "IMG": "fennel"
+    },
+    {
+      "NAME": "frankincense",
+      "URL": "frankincense.html",
+      "IMG": "frankincense"
+    },
+    {
+      "NAME": "geranium",
+      "URL": "geranium.html",
+      "IMG": "geranium"
+    },
+    {
+      "NAME": "ginger",
+      "URL": "ginger.html",
+      "IMG": "ginger"
+    },
+    {
+      "NAME": "Gingergrass",
+      "URL": "Gingergrass.html",
+      "IMG": "gingergrass"
+    },
+    {
+      "NAME": "Grape Seed",
+      "URL": "grapefruit.html",
+      "IMG": "grapefruit"
+    },
+    {
+      "NAME": "helichrysum",
+      "URL": "helichrysum.html",
+      "IMG": "helichrysum"
+    },
+    {
+      "NAME": "Jasmine",
+      "URL": "Jasmine.html",
+      "IMG": "jasmine"
+    },
+    {
+      "NAME": "Jojoba",
+      "URL": "Jojoba.html",
+      "IMG": "jojoba"
+    },
+    {
+      "NAME": "juniper Berry",
+      "URL": "juniperBerry.html",
+      "IMG": "juniper_berry"
+    },
+    {
+      "NAME": "Khus",
+      "URL": "Khus.html",
+      "IMG": "khus"
+    },
+    {
+      "NAME": "lavender",
+      "URL": "lavender.html",
+      "IMG": "lavender"
+    },
+    {
+      "NAME": "lemon",
+      "URL": "lemon.html",
+      "IMG": "lemon"
+    },
+    {
+      "NAME": "lemongrass",
+      "URL": "lemongrass.html",
+      "IMG": "lemongrass"
+    },
+    {
+      "NAME": "lime",
+      "URL": "lime.html",
+      "IMG": "lime"
+    },
+    {
+      "NAME": "marjoram",
+      "URL": "marjoram.html",
+      "IMG": "marjoram"
+    },
+    {
+      "NAME": "melissa",
+      "URL": "melissa.html",
+      "IMG": "melissa"
+    },
+    {
+      "NAME": "Mogra",
+      "URL": "Mogra.html",
+      "IMG": "mogra"
+    },
+    {
+      "NAME": "Motia Rosha",
+      "URL": "Motia Rosha.html",
+      "IMG": "motia_rosha"
+    },
+    {
+      "NAME": "myrrh",
+      "URL": "myrrh.html",
+      "IMG": "myrrh"
+    },
+    {
+      "NAME": "Mysore sandal",
+      "URL": "Mysore sandal.html",
+      "IMG": "mysore_sandal"
+    },
+    {
+      "NAME": "Neem",
+      "URL": "Neem.html",
+      "IMG": "neem"
+    },
+    {
+      "NAME": "Neroli",
+      "URL": "Neroli.html",
+      "IMG": "neroli"
+    },
+    {
+      "NAME": "Nutmeg",
+      "URL": "Nutmeg.html",
+      "IMG": "nutmeg"
+    },
+    {
+      "NAME": "Olive",
+      "URL": "Olive.html",
+      "IMG": "olive"
+    },
+    {
+      "NAME": "Orange",
+      "URL": "Orange.html",
+      "IMG": "orange"
+    },
+    {
+      "NAME": "ORPL",
+      "URL": "ORPL.html",
+      "IMG": "orpl"
+    },
+    {
+      "NAME": "Palma Rosha",
+      "URL": "Palma Rosha.html",
+      "IMG": "palma_rosha"
+    },
+    {
+      "NAME": "patchouli",
+      "URL": "patchouli.html",
+      "IMG": "patchouli"
+    },
+    {
+      "NAME": "peppermint",
+      "URL": "peppermint.html",
+      "IMG": "peppermint"
+    },
+    {
+      "NAME": "Pine",
+      "URL": "Pine.html",
+      "IMG": "pine"
+    },
+    {
+      "NAME": "Rose",
+      "URL": "Rose.html",
+      "IMG": "rose"
+    },
+    {
+      "NAME": "Rose Wood",
+      "URL": "Rose Wood.html",
+      "IMG": "rose_wood"
+    },
+    {
+      "NAME": "rosemary",
+      "URL": "rosemary.html",
+      "IMG": "rosemary"
+    },
+    {
+      "NAME": "Sofia",
+      "URL": "Sofia.html",
+      "IMG": "sofia"
+    },
+    {
+      "NAME": "Tagetus",
+      "URL": "Tagetus.html",
+      "IMG": "tagetus"
+    },
+    {
+      "NAME": "Tea Tree",
+      "URL": "teaTree.html",
+      "IMG": "tea_tree"
+    },
+    {
+      "NAME": "Thyme",
+      "URL": "thyme.html",
+      "IMG": "thyme"
+    },
+    {
+      "NAME": "Til",
+      "URL": "Til.html",
+      "IMG": "til"
+    },
+    {
+      "NAME": "Tulsi",
+      "URL": "Tulsi.html",
+      "IMG": "tulsi"
+    },
+    {
+      "NAME": "Vetiver",
+      "URL": "vetiver.html",
+      "IMG": "vetiver"
+    },
+    {
+      "NAME": "Walnut",
+      "URL": "Walnut.html",
+      "IMG": "walnut"
+    },
+    {
+      "NAME": "Wheat Germ",
+      "URL": "Wheat Germ.html",
+      "IMG": "wheat_germ"
+    },
+    {
+      "NAME": "ylang Ylang",
+      "URL": "ylang_ylang.html",
+      "IMG": "ylang_ylang"
+    }
+  ],
+  "CONDITIONS": [
+    {
+      "NAME": "abscess",
+      "URL": "abscess.html"
+    },
+    {
+      "NAME": "acid-reflux",
+      "URL": "acid-reflux.html"
+    },
+    {
+      "NAME": "acne",
+      "URL": "acne.html"
+    },
+    {
+      "NAME": "add-adhd",
+      "URL": "add-adhd.html"
+    },
+    {
+      "NAME": "addisons-disease",
+      "URL": "addisons-disease.html"
+    },
+    {
+      "NAME": "aids-hiv",
+      "URL": "aids-hiv.html"
+    },
+    {
+      "NAME": "als",
+      "URL": "als.html"
+    },
+    {
+      "NAME": "alzheimers",
+      "URL": "alzheimers.html"
+    },
+    {
+      "NAME": "aneurysm",
+      "URL": "aneurysm.html"
+    },
+    {
+      "NAME": "angina",
+      "URL": "angina.html"
+    },
+    {
+      "NAME": "animal-bites",
+      "URL": "animal-bites.html"
+    },
+    {
+      "NAME": "ankylosing-spondylitis",
+      "URL": "nkylosing-spondylitis.html"
+    },
+    {
+      "NAME": "anorexia",
+      "URL": "anorexia.html"
+    },
+    {
+      "NAME": "anxiety",
+      "URL": "anxiety.html"
+    },
+    {
+      "NAME": "aromatherapy",
+      "URL": "aromatherapy.html"
+    },
+    {
+      "NAME": "arthritic-pain",
+      "URL": "arthritic-pain.html"
+    },
+    {
+      "NAME": "asthma",
+      "URL": "asthma.html"
+    },
+    {
+      "NAME": "athletes-foot",
+      "URL": "athletes-foot.html"
+    },
+    {
+      "NAME": "auditory-processing-disorder",
+      "URL": "auditory-processing-disorder.html"
+    },
+    {
+      "NAME": "autism",
+      "URL": "autism.html"
+    },
+    {
+      "NAME": "auto-immune",
+      "URL": "auto-immune.html"
+    },
+    {
+      "NAME": "back-pain",
+      "URL": "back-pain.html"
+    },
+    {
+      "NAME": "bad-breath",
+      "URL": "bad-breath.html"
+    },
+    {
+      "NAME": "bells-palsy",
+      "URL": "bells-palsy.html"
+    },
+    {
+      "NAME": "benign-tumors",
+      "URL": "benign-tumors.html"
+    },
+    {
+      "NAME": "bi-polar",
+      "URL": "bi-polar.html"
+    },
+    {
+      "NAME": "blisters",
+      "URL": "blisters.html"
+    },
+    {
+      "NAME": "bloating",
+      "URL": "bloating.html"
+    },
+    {
+      "NAME": "blood-clots",
+      "URL": "blood-clots.html"
+    },
+    {
+      "NAME": "body-odor",
+      "URL": "body-odor.html"
+    },
+    {
+      "NAME": "boils",
+      "URL": "boils.html"
+    },
+    {
+      "NAME": "bone-spurs",
+      "URL": "bone-spurs.html"
+    },
+    {
+      "NAME": "breast-feeding",
+      "URL": "breast-feeding.html"
+    },
+    {
+      "NAME": "bronchitis",
+      "URL": "bronchitis.html"
+    },
+    {
+      "NAME": "bruises",
+      "URL": "bruises.html"
+    },
+    {
+      "NAME": "bulimia",
+      "URL": "bulimia.html"
+    },
+    {
+      "NAME": "bunions",
+      "URL": "bunions.html"
+    },
+    {
+      "NAME": "burns",
+      "URL": "burns.html"
+    },
+    {
+      "NAME": "bursitis",
+      "URL": "bursitis.html"
+    },
+    {
+      "NAME": "calluses",
+      "URL": "calluses.html"
+    },
+    {
+      "NAME": "cancer",
+      "URL": "cancer.html"
+    },
+    {
+      "NAME": "candida-yeast-infection",
+      "URL": "candida-yeast-infection.html"
+    },
+    {
+      "NAME": "carpal-tunnel",
+      "URL": "carpal-tunnel.html"
+    },
+    {
+      "NAME": "carrier-oils",
+      "URL": "carrier-oils.html"
+    },
+    {
+      "NAME": "celiac",
+      "URL": "celiac.html"
+    },
+    {
+      "NAME": "cellulite",
+      "URL": "cellulite.html"
+    },
+    {
+      "NAME": "cellulitis",
+      "URL": "cellulitis.html"
+    },
+    {
+      "NAME": "chapped-lips",
+      "URL": "chapped-lips.html"
+    },
+    {
+      "NAME": "chemo",
+      "URL": "chemo.html"
+    },
+    {
+      "NAME": "chicken-pox",
+      "URL": "chicken-pox.html"
+    },
+    {
+      "NAME": "child-birth",
+      "URL": "child-birth.html"
+    },
+    {
+      "NAME": "cholesterol",
+      "URL": "cholesterol.html"
+    },
+    {
+      "NAME": "chronic-fatigue-syndrome",
+      "URL": "chronic-fatigue-syndrome.html"
+    },
+    {
+      "NAME": "chronic-inflammation",
+      "URL": "chronic-inflammation.html"
+    },
+    {
+      "NAME": "chronic-pain",
+      "URL": "chronic-pain.html"
+    },
+    {
+      "NAME": "circulation",
+      "URL": "circulation.html"
+    },
+    {
+      "NAME": "cleansing",
+      "URL": "cleansing.html"
+    },
+    {
+      "NAME": "colic",
+      "URL": "colic.html"
+    },
+    {
+      "NAME": "coma",
+      "URL": "coma.html"
+    },
+    {
+      "NAME": "common-cold",
+      "URL": "common-cold.html"
+    },
+    {
+      "NAME": "congestion",
+      "URL": "congestion.html"
+    },
+    {
+      "NAME": "conjunctivitis-pink-eye",
+      "URL": "conjunctivitis-pink-eye.html"
+    },
+    {
+      "NAME": "constipation",
+      "URL": "constipation.html"
+    },
+    {
+      "NAME": "cough",
+      "URL": "cough.html"
+    },
+    {
+      "NAME": "cradle-cap",
+      "URL": "cradle-cap.html"
+    },
+    {
+      "NAME": "crohns-disease",
+      "URL": "crohns-disease.html"
+    },
+    {
+      "NAME": "croup",
+      "URL": "croup.html"
+    },
+    {
+      "NAME": "cuts-wounds",
+      "URL": "cuts-wounds.html"
+    },
+    {
+      "NAME": "cysts",
+      "URL": "cysts.html"
+    },
+    {
+      "NAME": "dandruff",
+      "URL": "dandruff.html"
+    },
+    {
+      "NAME": "dementia",
+      "URL": "dementia.html"
+    },
+    {
+      "NAME": "dental-health",
+      "URL": "dental-health.html"
+    },
+    {
+      "NAME": "depression",
+      "URL": "depression.html"
+    },
+    {
+      "NAME": "diabetes",
+      "URL": "diabetes.html"
+    },
+    {
+      "NAME": "diaper-rash",
+      "URL": "diaper-rash.html"
+    },
+    {
+      "NAME": "diarrhea",
+      "URL": "diarrhea.html"
+    },
+    {
+      "NAME": "digestive-issues",
+      "URL": "digestive-issues.html"
+    },
+    {
+      "NAME": "diverticulitis",
+      "URL": "diverticulitis.html"
+    },
+    {
+      "NAME": "dysentery",
+      "URL": "dysentery.html"
+    },
+    {
+      "NAME": "dysphagia",
+      "URL": "dysphagia.html"
+    },
+    {
+      "NAME": "ear-infections",
+      "URL": "ear-infections.html"
+    },
+    {
+      "NAME": "eczema",
+      "URL": "eczema.html"
+    },
+    {
+      "NAME": "edema",
+      "URL": "edema.html"
+    },
+    {
+      "NAME": "emotional-health",
+      "URL": "emotional-health.html"
+    },
+    {
+      "NAME": "endometriosis",
+      "URL": "endometriosis.html"
+    },
+    {
+      "NAME": "epilepsy",
+      "URL": "epilepsy.html"
+    },
+    {
+      "NAME": "epstein-barr",
+      "URL": "epstein-barr.html"
+    },
+    {
+      "NAME": "essential-tremors",
+      "URL": "essential-tremors.html"
+    },
+    {
+      "NAME": "eye-health",
+      "URL": "eye-health.html"
+    },
+    {
+      "NAME": "fainting-shock",
+      "URL": "fainting-shock.html"
+    },
+    {
+      "NAME": "fatigue",
+      "URL": "fatigue.html"
+    },
+    {
+      "NAME": "female-concerns",
+      "URL": "female-concerns.html"
+    },
+    {
+      "NAME": "fever",
+      "URL": "fever.html"
+    },
+    {
+      "NAME": "fibromyalgia",
+      "URL": "fibromyalgia.html"
+    },
+    {
+      "NAME": "first-aid",
+      "URL": "first-aid.html"
+    },
+    {
+      "NAME": "food-allergies",
+      "URL": "food-allergies.html"
+    },
+    {
+      "NAME": "food-poisoning",
+      "URL": "food-poisoning.html"
+    },
+    {
+      "NAME": "gall-bladder",
+      "URL": "gall-bladder.html"
+    },
+    {
+      "NAME": "gas",
+      "URL": "gas.html"
+    },
+    {
+      "NAME": "gastroenteritis",
+      "URL": "gastroenteritis.html"
+    },
+    {
+      "NAME": "general-health",
+      "URL": "general-health.html"
+    },
+    {
+      "NAME": "german-measles",
+      "URL": "german-measles.html"
+    },
+    {
+      "NAME": "gg-originstory",
+      "URL": "gg-originstory.html"
+    },
+    {
+      "NAME": "gout",
+      "URL": "gout.html"
+    },
+    {
+      "NAME": "graves-disease",
+      "URL": "graves-disease.html"
+    },
+    {
+      "NAME": "hangover",
+      "URL": "hangover.html"
+    },
+    {
+      "NAME": "hashimotos-thyroiditis",
+      "URL": "hashimotos-thyroiditis.html"
+    },
+    {
+      "NAME": "headaches",
+      "URL": "headaches.html"
+    },
+    {
+      "NAME": "head-injury",
+      "URL": "head-injury.html"
+    },
+    {
+      "NAME": "health-protocol-blog",
+      "URL": "health-protocol-blog.html"
+    },
+    {
+      "NAME": "hearing-loss",
+      "URL": "hearing-loss.html"
+    },
+    {
+      "NAME": "heart-disease",
+      "URL": "heart-disease.html"
+    },
+    {
+      "NAME": "heat-exhaustion",
+      "URL": "heat-exhaustion.html"
+    },
+    {
+      "NAME": "hemorrhage",
+      "URL": "hemorrhage.html"
+    },
+    {
+      "NAME": "hemorrhoids",
+      "URL": "hemorrhoids.html"
+    },
+    {
+      "NAME": "hepatitis",
+      "URL": "hepatitis.html"
+    },
+    {
+      "NAME": "herpes",
+      "URL": "herpes.html"
+    },
+    {
+      "NAME": "hiccups",
+      "URL": "hiccups.html"
+    },
+    {
+      "NAME": "high-blood-pressure",
+      "URL": "high-blood-pressure.html"
+    },
+    {
+      "NAME": "hives",
+      "URL": "hives.html"
+    },
+    {
+      "NAME": "home",
+      "URL": "home.html"
+    },
+    {
+      "NAME": "hormone-balance",
+      "URL": "hormone-balance.html"
+    },
+    {
+      "NAME": "hormones-essential-oils",
+      "URL": "hormones-essential-oils.html"
+    },
+    {
+      "NAME": "hot-flashes",
+      "URL": "hot-flashes.html"
+    },
+    {
+      "NAME": "hypertension",
+      "URL": "hypertension.html"
+    },
+    {
+      "NAME": "hypoglycemia",
+      "URL": "hypoglycemia.html"
+    },
+    {
+      "NAME": "ibd",
+      "URL": "ibd.html"
+    },
+    {
+      "NAME": "illness",
+      "URL": "illness.html"
+    },
+    {
+      "NAME": "immune-disorders",
+      "URL": "immune-disorders.html"
+    },
+    {
+      "NAME": "impetigo",
+      "URL": "impetigo.html"
+    },
+    {
+      "NAME": "incontinence",
+      "URL": "incontinence.html"
+    },
+    {
+      "NAME": "infections",
+      "URL": "infections.html"
+    },
+    {
+      "NAME": "infertility",
+      "URL": "infertility.html"
+    },
+    {
+      "NAME": "inflammation",
+      "URL": "inflammation.html"
+    },
+    {
+      "NAME": "influenza",
+      "URL": "influenza.html"
+    },
+    {
+      "NAME": "insect-bites",
+      "URL": "insect-bites.html"
+    },
+    {
+      "NAME": "insomnia",
+      "URL": "insomnia.html"
+    },
+    {
+      "NAME": "irritability",
+      "URL": "irritability.html"
+    },
+    {
+      "NAME": "jaundice",
+      "URL": "jaundice.html"
+    },
+    {
+      "NAME": "jet-lag",
+      "URL": "jet-lag.html"
+    },
+    {
+      "NAME": "joint-pain",
+      "URL": "joint-pain.html"
+    },
+    {
+      "NAME": "laryngitis",
+      "URL": "laryngitis.html"
+    },
+    {
+      "NAME": "lice",
+      "URL": "lice.html"
+    },
+    {
+      "NAME": "lipoma",
+      "URL": "lipoma.html"
+    },
+    {
+      "NAME": "liver-disease",
+      "URL": "liver-disease.html"
+    },
+    {
+      "NAME": "low-blood-pressure",
+      "URL": "low-blood-pressure.html"
+    },
+    {
+      "NAME": "low-libido",
+      "URL": "low-libido.html"
+    },
+    {
+      "NAME": "low-testosterone",
+      "URL": "low-testosterone.html"
+    },
+    {
+      "NAME": "lyme-disease",
+      "URL": "lyme-disease.html"
+    },
+    {
+      "NAME": "lymphedema",
+      "URL": "lymphedema.html"
+    },
+    {
+      "NAME": "mastitis",
+      "URL": "mastitis.html"
+    },
+    {
+      "NAME": "measles",
+      "URL": "measles.html"
+    },
+    {
+      "NAME": "memory",
+      "URL": "memory.html"
+    },
+    {
+      "NAME": "menopause",
+      "URL": "menopause.html"
+    },
+    {
+      "NAME": "menstrual-cramps",
+      "URL": "menstrual-cramps.html"
+    },
+    {
+      "NAME": "metabolic-syndrome",
+      "URL": "metabolic-syndrome.html"
+    },
+    {
+      "NAME": "migraines",
+      "URL": "migraines.html"
+    },
+    {
+      "NAME": "mononucleosis",
+      "URL": "mononucleosis.html"
+    },
+    {
+      "NAME": "mood-swings",
+      "URL": "mood-swings.html"
+    },
+    {
+      "NAME": "mrsa-staph",
+      "URL": "mrsa-staph.html"
+    },
+    {
+      "NAME": "multiple-sclerosis",
+      "URL": "multiple-sclerosis.html"
+    },
+    {
+      "NAME": "muscle-cramps",
+      "URL": "muscle-cramps.html"
+    },
+    {
+      "NAME": "nail-fungus",
+      "URL": "nail-fungus.html"
+    },
+    {
+      "NAME": "nausea",
+      "URL": "nausea.html"
+    },
+    {
+      "NAME": "nerve-damage",
+      "URL": "nerve-damage.html"
+    },
+    {
+      "NAME": "neuralgia",
+      "URL": "neuralgia.html"
+    },
+    {
+      "NAME": "neurological",
+      "URL": "neurological.html"
+    },
+    {
+      "NAME": "neuropathy",
+      "URL": "neuropathy.html"
+    },
+    {
+      "NAME": "ocd",
+      "URL": "ocd.html"
+    },
+    {
+      "NAME": "oil-pulling",
+      "URL": "oil-pulling.html"
+    },
+    {
+      "NAME": "ovarian-cysts",
+      "URL": "ovarian-cysts.html"
+    },
+    {
+      "NAME": "pancreatitis",
+      "URL": "pancreatitis.html"
+    },
+    {
+      "NAME": "paralysis",
+      "URL": "paralysis.html"
+    },
+    {
+      "NAME": "parkinsons",
+      "URL": "parkinsons.html"
+    },
+    {
+      "NAME": "pcos",
+      "URL": "pcos.html"
+    },
+    {
+      "NAME": "pelvic-pain-syndrome",
+      "URL": "pelvic-pain-syndrome.html"
+    },
+    {
+      "NAME": "plantar-faciitis",
+      "URL": "plantar-faciitis.html"
+    },
+    {
+      "NAME": "pleurisy",
+      "URL": "pleurisy.html"
+    },
+    {
+      "NAME": "pms",
+      "URL": "pms.html"
+    },
+    {
+      "NAME": "pneumonia",
+      "URL": "pneumonia.html"
+    },
+    {
+      "NAME": "poison-ivy",
+      "URL": "poison-ivy.html"
+    },
+    {
+      "NAME": "polyps",
+      "URL": "polyps.html"
+    },
+    {
+      "NAME": "pregnancy",
+      "URL": "pregnancy.html"
+    },
+    {
+      "NAME": "pressure-ulcers",
+      "URL": "pressure-ulcers.html"
+    },
+    {
+      "NAME": "raynauds",
+      "URL": "raynauds.html"
+    },
+    {
+      "NAME": "reflexology",
+      "URL": "reflexology.html"
+    },
+    {
+      "NAME": "respiratory-disease",
+      "URL": "respiratory-disease.html"
+    },
+    {
+      "NAME": "respiratory-issues",
+      "URL": "respiratory-issues.html"
+    },
+    {
+      "NAME": "rheumatic-fever",
+      "URL": "rheumatic-fever.html"
+    },
+    {
+      "NAME": "rosacea",
+      "URL": "rosacea.html"
+    },
+    {
+      "NAME": "safety",
+      "URL": "safety.html"
+    },
+    {
+      "NAME": "scabies",
+      "URL": "scabies.html"
+    },
+    {
+      "NAME": "scars",
+      "URL": "scars.html"
+    },
+    {
+      "NAME": "sciatica",
+      "URL": "sciatica.html"
+    },
+    {
+      "NAME": "scleroderma",
+      "URL": "scleroderma.html"
+    },
+    {
+      "NAME": "scoliosis",
+      "URL": "scoliosis.html"
+    },
+    {
+      "NAME": "seizures",
+      "URL": "seizures.html"
+    },
+    {
+      "NAME": "sensory-processing",
+      "URL": "sensory-processing.html"
+    },
+    {
+      "NAME": "shingles",
+      "URL": "shingles.html"
+    },
+    {
+      "NAME": "sinus-infection",
+      "URL": "sinus-infection.html"
+    },
+    {
+      "NAME": "sjogrens-syndrome",
+      "URL": "sjogrens-syndrome.html"
+    },
+    {
+      "NAME": "skin-ailments",
+      "URL": "skin-ailments.html"
+    },
+    {
+      "NAME": "skin-cancer",
+      "URL": "skin-cancer.html"
+    },
+    {
+      "NAME": "snake-bites",
+      "URL": "snake-bites.html"
+    },
+    {
+      "NAME": "splinters",
+      "URL": "splinters.html"
+    },
+    {
+      "NAME": "sprains",
+      "URL": "sprains.html"
+    },
+    {
+      "NAME": "stomach-flu",
+      "URL": "stomach-flu.html"
+    },
+    {
+      "NAME": "strep-throat",
+      "URL": "strep-throat.html"
+    },
+    {
+      "NAME": "stress",
+      "URL": "stress.html"
+    },
+    {
+      "NAME": "stroke",
+      "URL": "stroke.html"
+    },
+    {
+      "NAME": "stye",
+      "URL": "stye.html"
+    },
+    {
+      "NAME": "sunburn",
+      "URL": "sunburn.html"
+    },
+    {
+      "NAME": "systemic-lupus",
+      "URL": "systemic-lupus.html"
+    },
+    {
+      "NAME": "teeth-grinding",
+      "URL": "teeth-grinding.html"
+    },
+    {
+      "NAME": "tendonitis",
+      "URL": "tendonitis.html"
+    },
+    {
+      "NAME": "tinnitus",
+      "URL": "tinnitus.html"
+    },
+    {
+      "NAME": "tmj",
+      "URL": "tmj.html"
+    },
+    {
+      "NAME": "tonsillitis",
+      "URL": "tonsillitis.html"
+    },
+    {
+      "NAME": "toothache",
+      "URL": "toothache.html"
+    },
+    {
+      "NAME": "topical",
+      "URL": "topical.html"
+    },
+    {
+      "NAME": "tourettes",
+      "URL": "tourettes.html"
+    },
+    {
+      "NAME": "tuberculosis",
+      "URL": "tuberculosis.html"
+    },
+    {
+      "NAME": "tumors",
+      "URL": "tumors.html"
+    },
+    {
+      "NAME": "ulcers",
+      "URL": "ulcers.html"
+    },
+    {
+      "NAME": "urinary-tract-infection",
+      "URL": "urinary-tract-infection.html"
+    },
+    {
+      "NAME": "uterine-fibroids",
+      "URL": "uterine-fibroids.html"
+    },
+    {
+      "NAME": "vaginitis",
+      "URL": "vaginitis.html"
+    },
+    {
+      "NAME": "valley-fever",
+      "URL": "valley-fever.html"
+    },
+    {
+      "NAME": "vericose-veins",
+      "URL": "vericose-veins.html"
+    },
+    {
+      "NAME": "vertigo",
+      "URL": "vertigo.html"
+    },
+    {
+      "NAME": "warts",
+      "URL": "warts.html"
+    },
+    {
+      "NAME": "whooping-cough",
+      "URL": "whooping-cough.html"
+    }
+  ],
+  "INFO": [
+    {
+      "NAME": "aromatherapy",
+      "URL": "aromatherapy.html",
+      "IMG": "aromatherapy"
+    },
+    {
+      "NAME": "aromathic",
+      "URL": "aromathic.html",
+      "IMG": "aromathic"
+    },
+    {
+      "NAME": "carrier-oils",
+      "URL": "carrier-oils.html",
+      "IMG": "carrier_oils"
+    },
+    {
+      "NAME": "chemistry",
+      "URL": "chemistry.html",
+      "IMG": "chemistry"
+    },
+    {
+      "NAME": "cptg",
+      "URL": "cptg.html",
+      "IMG": "cptg"
+    },
+    {
+      "NAME": "detoxification",
+      "URL": "detoxification.html",
+      "IMG": "detoxification"
+    },
+    {
+      "NAME": "essential-oils",
+      "URL": "essential-oils.html",
+      "IMG": "essential_oils"
+    },
+    {
+      "NAME": "hormone-essential-oils",
+      "URL": "hormone-essential-oils.html",
+      "IMG": "hormone_essential_oils"
+    },
+    {
+      "NAME": "internal",
+      "URL": "internal.html",
+      "IMG": "internal"
+    },
+    {
+      "NAME": "massage-blend-technique",
+      "URL": "massage-blend-technique.html",
+      "IMG": "massage_blend_technique"
+    },
+    {
+      "NAME": "oil-pulling",
+      "URL": "oil-pulling.html",
+      "IMG": "oil_pulling"
+    },
+    {
+      "NAME": "reflexology",
+      "URL": "reflexology.html",
+      "IMG": "reflexology"
+    },
+    {
+      "NAME": "safety",
+      "URL": "safety.html",
+      "IMG": "safety"
+    },
+    {
+      "NAME": "topical",
+      "URL": "topical.html",
+      "IMG": "topical"
+    }
+  ],
+  "BLENDS": [
+    {
+      "NAME": "aroma Touch",
+      "URL": "aromaTouch.html",
+      "IMG": "aroma_touch"
+    },
+    {
+      "NAME": "balance",
+      "URL": "balance.html",
+      "IMG": "balance"
+    },
+    {
+      "NAME": "breathe",
+      "URL": "breathe.html",
+      "IMG": "breathe"
+    },
+    {
+      "NAME": "citrus Bliss",
+      "URL": "citrusBliss.html",
+      "IMG": "citrus_bliss"
+    },
+    {
+      "NAME": "clary Calm",
+      "URL": "claryCalm.html",
+      "IMG": "clary_calm"
+    },
+    {
+      "NAME": "deep Blue",
+      "URL": "deepBlue.html",
+      "IMG": "deep_blue"
+    },
+    {
+      "NAME": "digest Zen",
+      "URL": "digestZen.html",
+      "IMG": "digest_zen"
+    },
+    {
+      "NAME": "elevation",
+      "URL": "elevation.html",
+      "IMG": "elevation"
+    },
+    {
+      "NAME": "hd Clear",
+      "URL": "hdClear.html",
+      "IMG": "hd_clear"
+    },
+    {
+      "NAME": "immortelle",
+      "URL": "immortelle.html",
+      "IMG": "immortelle"
+    },
+    {
+      "NAME": "in Tune",
+      "URL": "inTune.html",
+      "IMG": "in_tune"
+    },
+    {
+      "NAME": "on Guard",
+      "URL": "onGuard.html",
+      "IMG": "on_guard"
+    },
+    {
+      "NAME": "past Tense",
+      "URL": "pastTense.html",
+      "IMG": "past_tense"
+    },
+    {
+      "NAME": "purify",
+      "URL": "purify.html",
+      "IMG": "purify"
+    },
+    {
+      "NAME": "serenity",
+      "URL": "serenity.html",
+      "IMG": "serenity"
+    },
+    {
+      "NAME": "slim Sassy",
+      "URL": "slimSassy.html",
+      "IMG": "slim_sassy"
+    },
+    {
+      "NAME": "terra Shield",
+      "URL": "terraShield.html",
+      "IMG": "terra_shield"
+    },
+    {
+      "NAME": "whisper",
+      "URL": "whisper.html",
+      "IMG": "whisper"
+    },
+    {
+      "NAME": "zendocrine",
+      "URL": "zendocrine.html",
+      "IMG": "zendocrine"
+    }
+  ]
+}
